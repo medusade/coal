@@ -1,2 +1,2 @@
 # coal
-Coal objects in C
+Objects in C
