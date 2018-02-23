@@ -1,2 +1,2 @@
 # coal
-Objects in C
+Component Objects in C
